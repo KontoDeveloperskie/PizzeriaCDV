@@ -23,3 +23,15 @@
 |2. | TAGIATELLE Z PESTO                                       |          | 18 zł | 24 zł |
 |3. | PENNE QUADRO FROMAGGI                                    |          | 25 zł | 30 zł |
 |4. | CONCHIGLIONI Z MIĘSEM MIELONYM I SEREM                   |          | 30 zł | 35 zł |
+
+## Sosy
+
+| Pomidorowy                | 2 zł | 
+| Czosnkowy                 | 3 zł |
+| Barbeque                  | 3 zł |
+| Miodowo-musztardowy       | 4 zł |
+| Majonezowy                | 2 zł |
+
+## Napoje
+
+<img src= "" width = 300>
