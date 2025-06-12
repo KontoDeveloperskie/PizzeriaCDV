@@ -34,6 +34,8 @@
 
 ## Sałatki
 
+<img src= "img/chicken-parmesan-caesar-salad-with-lettuce-cherry-tomatoes-inside-white-bowl-served-with-sauce-bread.jpg" width = 300>
+
 |Lp.| Sałatki:                                                                     | rozmiar: | 300 g |
 |---|------------------------------------------------------------------------------|----------|-------|
 |1. |GRECKA (sałata, oliwa z oliwek, pomidor, ogórek zielony, feta)                |          | 20 zł |
