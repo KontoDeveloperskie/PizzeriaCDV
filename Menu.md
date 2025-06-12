@@ -54,6 +54,8 @@
 
 ## Dodatki
 
+<img src="img/pexels-dbaler-14062144.jpg" width = 300>
+
 |Lp.|Dodatki   | Cena |
 |---|----------|------|
 |1. |CUKINIA   | 5 zł |
