@@ -14,6 +14,12 @@
 
 ## Makarony
 
-(img src= "">
+(img src= "img/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table.jpg" width = 300>
 
-|Lp.| Pizza:                                                | rozmiar: | 30 cm | 50 czm | 60 cm |
+|Lp.| Makarony:                                                | rozmiar: | 500 g | 850 g |
+|1. | | | | |
+|2. | | | | |
+|3. | | | | |
+|4. | | | | |
+|5. | | | | |
+|6. | | | | |
