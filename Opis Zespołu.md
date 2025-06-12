@@ -1,3 +1,5 @@
 # Opis zespołu
 
-Treść
+## Kierownik
+## Dostawca
+## Grafik
