@@ -13,6 +13,14 @@
 |5. |HAWAJSKA (sos pomidorowy, ser, szynka, ananas)         |          | 25 zł |  30 zł | 34 zł |
 |6. |MILANO (sos pomidorowy, ser, szynka, papryka, oregano) |          | 30 zł |  34 zł | 38 zł |
 
+## Pizze vege
+
+|Lp.| Pizza:                                                | rozmiar: | 30 cm | 50 czm | 60 cm |
+|---|-------------------------------------------------------|----------|-------|--------|-------|
+|1. |MARGHARITTA (sos pomidorowy, ser, oregano)             |          | 20 zł |  23 zł | 26 zł |
+|2. |FUNGHI (sos pomidorowy, ser, pieczarki)                |          | 22 zł |  26 zł | 30 zł |
+|3. |HAWAJSKA VEGE (sos pomidorowy, ser, ananas)            |          | 25 zł |  30 zł | 34 zł |
+
 ## Makarony
 
 <img src= "img/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table.jpg" width = 300>
@@ -23,6 +31,16 @@
 |2. | TAGIATELLE Z PESTO                                       |          | 18 zł | 24 zł |
 |3. | PENNE QUADRO FROMAGGI                                    |          | 25 zł | 30 zł |
 |4. | CONCHIGLIONI Z MIĘSEM MIELONYM I SEREM                   |          | 30 zł | 35 zł |
+
+## Sałatki
+
+<img src= "img/chicken-parmesan-caesar-salad-with-lettuce-cherry-tomatoes-inside-white-bowl-served-with-sauce-bread.jpg" width = 300>
+
+|Lp.| Sałatki:                                                                     | rozmiar: | 300 g |
+|---|------------------------------------------------------------------------------|----------|-------|
+|1. |GRECKA (sałata, oliwa z oliwek, pomidor, ogórek zielony, feta)                |          | 20 zł |
+|2. |CEZAR  Z KURCZAKIEM (sałata, cebula, oliwa z oliwek, pomidor, kurczak)        |          | 22 zł |
+|3. |HISZPAŃSKA (sałata, cebula, oliwa z oliwek, pomidor, mozzarella)              |          | 24 zł |
 
 ## Sosy
 
