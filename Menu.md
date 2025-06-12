@@ -39,6 +39,7 @@
 <img src= "img/front-close-view-organic-fresh-juices-bottles-served-with-tubes-fruits-wooden-cutting-board-brown-table.jpg" width = 300>
 
 |Lp.|Napoje:                   | Cena za 350 ml |
+|---|--------------------------|----------------|
 |1. |Woda niegazowana/gazowana |     5 zł       |
 |2. |Sok jabłkowy/pomarańczowy |     6 zł       |
 |3. |Oranżada                  |     7 zł       |
