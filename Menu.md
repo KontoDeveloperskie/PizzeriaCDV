@@ -26,12 +26,14 @@
 
 ## Sosy
 
-| Pomidorowy                | 2 zł | 
-| Czosnkowy                 | 3 zł |
-| Barbeque                  | 3 zł |
-| Miodowo-musztardowy       | 4 zł |
-| Majonezowy                | 2 zł |
+|Lp.|Sosy:                 |      |
+|---|--------------------------|------|
+|1. |Pomidorowy                | 2 zł | 
+|2. |Czosnkowy                 | 3 zł |
+|3. |Barbeque                  | 3 zł |
+|4. |Miodowo-musztardowy       | 4 zł |
+|5. |Majonezowy                | 2 zł |
 
 ## Napoje
 
-<img src= "" width = 300>
+<img src= "img/front-close-view-organic-fresh-juices-bottles-served-with-tubes-fruits-wooden-cutting-board-brown-table.jpg" width = 300>
