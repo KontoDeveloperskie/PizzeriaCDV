@@ -46,11 +46,19 @@
 
 |Lp.|Sosy:                     | Cena |
 |---|--------------------------|------|
-|1. |Pomidorowy                | 2 zł | 
-|2. |Czosnkowy                 | 3 zł |
-|3. |Barbeque                  | 3 zł |
-|4. |Miodowo-musztardowy       | 4 zł |
-|5. |Majonezowy                | 2 zł |
+|1. |POMIDOROWY                | 2 zł | 
+|2. |CZOSNKOWY                 | 3 zł |
+|3. |BARBEQUE                  | 3 zł |
+|4. |MIODOWO-MUSZTARDOWY       | 4 zł |
+|5. |MAJONEZOWY                | 2 zł |
+
+## Dodatki
+
+|Lp.|Dodatki   | Cena |
+|---|----------|------|
+|1. |CUKINIA   | 5 zł |
+|2. |KARCZOCHY | 6 zł |
+|3. |KREWETKI  |10 zł |
 
 ## Napoje
 
